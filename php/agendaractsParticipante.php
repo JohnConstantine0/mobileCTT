@@ -25,6 +25,7 @@
 
 	$rwcapacidad = $rwdetalleactDisponible['capacidad'];
 
+	//Prueba
 	
 	//AQUÍ TERMINA LA CONSULTA PARA EXTRAER DATOS DE LA ACTIVIDAD DISPONIBLE
 
